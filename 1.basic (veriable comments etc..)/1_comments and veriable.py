@@ -18,3 +18,9 @@ b=34.34
 print(type(b))#this is float
 c=12/3
 print(type(c))#this is also float
+#there is another data type called the string...string is the data type you can store anything in this use using single or
+#  double quorts
+d="varunthakur@232432"
+print(type(d))
+e=True
+print(type(e))
