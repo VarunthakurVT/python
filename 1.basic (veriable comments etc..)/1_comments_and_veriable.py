@@ -1,6 +1,7 @@
 # hash tag is used write comments in the python 
 # comments are the words like.. ignored by the compiler this is used to just expalin the code
 """this is the doc string comment"""
+print("hello ,world ") #print is used to the give the output 
 # veriable are used to store words,number... syntax-- veriableName=the value to write
 # rules--
 # not starts form number like(23vasf)
