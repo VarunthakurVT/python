@@ -1,6 +1,6 @@
 import re
 email=input("Enter your email ")
-if re.search(r"^.+@.+\.edu$",email):
+if re.search(r"{^@}^.+@.+\.edu$",email):
     print("valid")
 else:
     print("invalid")
