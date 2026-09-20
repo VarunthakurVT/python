@@ -14,7 +14,20 @@
 # print(type(b))
 # print(type(a)) 
 a=[1,2,3,4,5]
+d={1:"one",2:"two"}
 # b=[1,2,3,4,5]
-b=a
-print(a is b)
-print(id(a))
+# b=a
+# print(a is b)
+# print(id(a))
+# print(1 in a )
+# print(d.get(3))
+# d.setdefault(2,"three")
+# d.setdefault(5,"five")
+# print(d)
+
+
+with open("createfile.txt",'a') as file:
+    file.write("hello this file is created")
+    file
+import os
+os.remove("createfile")
