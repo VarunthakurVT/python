@@ -26,8 +26,11 @@ d={1:"one",2:"two"}
 # print(d)
 
 
-with open("createfile.txt",'a') as file:
-    file.write("hello this file is created")
-    file
-import os
-os.remove("createfile")
+# with open("createfile.txt",'a') as file:
+#     file.write("hello this file is created")
+#     file
+# import os
+# os.remove("createfile")
+list=[234,43,554,6,67,45]
+# print(list[32])
+print(list.index(43))
