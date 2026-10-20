@@ -1,0 +1,1 @@
+file=open("varun thakur.txt",'r')
