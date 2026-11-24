@@ -10,3 +10,6 @@ name="varun thakur"
 print(name[0])
 # there is a concept called string slicing syntax variable name[start:stop(excluded):stepsize]
 print(name[0:5:1])
+mystring='''my string \
+             this is the multiline string this is used to like write the multiline string '''
+print(mystring)

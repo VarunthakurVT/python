@@ -1,0 +1,10 @@
+{
+    "name": "Aarav Sharma",
+    "age": 28,
+    "city": "Shimla",
+    "skills": [
+        "Python",
+        "Data Analysis"
+    ],
+    "is_employed": true
+}
